@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-facebook-connect",
-  "version": "3.2.0",
+  "name": "@ni2khanna/cordova-plugin-facebook-connect",
+  "version": "3.2.1",
   "description": "Cordova Facebook SDK Plugin",
   "cordova": {
     "id": "cordova-plugin-facebook-connect",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cordova-plugin-facebook-connect/cordova-plugin-facebook-connect"
+    "url": "https://github.com/papiguy/cordova-plugin-facebook-connect"
   },
   "keywords": [
     "cordova",
