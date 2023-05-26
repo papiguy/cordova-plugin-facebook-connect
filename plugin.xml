@@ -3,7 +3,7 @@
         xmlns:android="http://schemas.android.com/apk/res/android"
         xmlns:tools="http://schemas.android.com/tools"
         id="cordova-plugin-facebook-connect"
-        version="3.2.5">
+        version="3.2.6">
 
     <name>Facebook Connect</name>
 
